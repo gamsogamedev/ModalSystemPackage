@@ -4,7 +4,9 @@
 * Crie a mensagem direto em código utilizando o construtor de um `ModalDetails`.
 * Ou crie utilizando um **ModalScriptableObject** acessando `Create -> Modal Message -> Modal Details`.
 
-// [Inserir imagem: ModalMessageSOCreation]
+<p align="center">
+    <img width="800" alt="ScriptableObject Path" src="https://github.com/user-attachments/assets/1e36a263-7e19-418b-b30c-01dfffe99ae5" />
+</p>
 
 O `ModalDetails` é a classe base que armazena todas as informações necessárias para construir a janela.
 
@@ -41,7 +43,9 @@ public class ModalDetails
 
 Para criar a mensagem com **ModalScriptableObject**, a interface no inspetor segue exatamente a mesma nomenclatura.
 
-// [Inserir imagem: InspectorViewSO]
+<p align="center">
+    <img width="417" height="393" alt="image" src="https://github.com/user-attachments/assets/05388380-23d7-4885-9b6c-9ddbb7975132" />
+</p>
 
 ---
 
