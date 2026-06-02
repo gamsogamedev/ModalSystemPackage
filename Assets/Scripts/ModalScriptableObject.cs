@@ -10,7 +10,7 @@ public class ModalScriptableObject: ScriptableObject
     public Sprite contentImage;
     public ModalLayout layout = ModalLayout.Vertical;
     
-    [Header("Botões")]
+    [Header("Footer")]
     public string confirmText = "Confirmar";
     public string cancelText;
     public string alternativeText;
