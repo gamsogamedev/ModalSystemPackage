@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b0766a95581d7a7a79a17a8f4fc0c9, type: 3}
+  m_Name: Sword Equip
+  m_EditorClassIdentifier: Assembly-CSharp::ModalScriptableObject
+  title: Equipar espada
+  message: "Em EquipSword voc\xEA vai encontrar um uso alternativo de ScriptableObjects
+    se preferir, tanto esse formato quanto o do InitialTutorial s\xE3o validos.\n\n*Equipar
+    a espada vai destruir este ponto de interesse"
+  contentImage: {fileID: 860910309584662230, guid: b7930bcdeeebc35d6aa87cabf653d2a9, type: 3}
+  layout: 0
+  confirmText: Equipar
+  cancelText: Cancelar
+  alternativeText: 
